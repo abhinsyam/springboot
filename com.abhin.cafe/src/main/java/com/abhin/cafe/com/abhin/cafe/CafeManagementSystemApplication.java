@@ -10,7 +10,4 @@ public class CafeManagementSystemApplication {
 		SpringApplication.run(CafeManagementSystemApplication.class, args);
 	}
 
-
-
-
 }
